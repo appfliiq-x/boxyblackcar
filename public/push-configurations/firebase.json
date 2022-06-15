@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "senorlux-app",
+  "private_key_id": "ab23a92d0369011297db90f8ccb004a261a5f52e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxA647XhT4LA0i\nANOtAhUbQDGQ3UvEcirMw4YFMwWrbT+HBZOA/A60mQTd5X+KMP+C1qAhSbwoQ8tA\nwNmibCBIfJsqICXyB1ZKcT09ETwEaHGT9JN82I8eX/g8pZQQb/VAs8KFZU88Rszg\nMYuwqeUo4/k4zFi19qV7TnXFqdndQ6BNpxCzTf3EfrHCUB0tKm6gMgS/ZXQV9St0\n6gVsYhsZjzlyxuYYk8I5wwodMJS7bILmqNSdgeeoXVMWhNx1pqnyaoqP9cKYtGp+\nNbtadU6S+7JGAAA/skqQ82CD6osEC865LsDP0p6sx76XqQP9r3QPTLAPbpVSBGBW\nAQEMhoznAgMBAAECggEABlx7/+0scr4JMMjNJ+v/EdjM5IhXXIq/yAEEyXNhHPJ9\nnx66WMnLcNOzmD0oSAaPwBtyFhAoygekVReOb/xTwqxxBQ1dCmVsxUXBg3bMQdpL\nrptSS4vFb5GCVxJE5RGo7iInoj9Bnt2/0hS7EOZiHQXoTbwQ5Lp64u4EZHiV+Dy9\nBV1T+1Qz9qxQVMT7iY8f1g/IMhPpB7tqg9VfVLe2Azwc1jycUPR6MKazX0xkiZq+\nooNsqc/KTWwI+tD+9/Z6yq6ET6DXT39GR7u4FK4jfB15PeErMQ7CIehNnOnr0+RH\n4WVAVa89SxHx8npj1epRa82McQjuchCqIdHBhaa4gQKBgQDtxtZxF4I7dw0CXiZi\nujuDbmp/h65UqstteA9DuCa56RIdoVN1u7CXF/qPQE/71O1lIJEwTzizGuDTW0K1\nNd3kw3FoXSsBLjzUIAwGy5s1IUV1aZ0j8VCDAMDZXFLf5cSbh7odllGlG7XoWF37\nUQlELF+uOsktOsKfTA9M5HMNgQKBgQC+lLCziZZSFg0DUIb1CD9dtHBMlWH3AQat\ntdnsbiwL4tjgph9pBMZGhx5wUbv3Td+F12etl4RFEdfCy7FD5TV5216fDr4La4bY\n6GO7zB196DuIv1sLdMaOslXVjlyn5VO+N0GwHLorjUaNnBDUI/a/3F78Xlx0bai9\nx5jAmCceZwKBgH44/YFPf3zdt/Q30py6S/l7VeGZPzwG5rKX91J1oWkzhsBf8ZQg\nLKAoxIPjGhKPd+4lGa3RgEHj1NGeMo1LqR1VexBx1PBtgTECSiAZWa0cmmi3xglc\nguboMXexgPUGXhZKOMyYDYNecHSE5G8TF54vCCPPZRgzhzlVARJKe6EBAoGACjW/\nDa9GTVl/EvlicYgilOuQxJmQKQJ2ECJY7XCtjWl2wvpDXoXx9V9RwySt1D7oxavX\nkxY18NlW3Mm60m9aIRAejpjkl4oILGCuzyXNQqyJW/ccco2sAYMOVCWPUzNW/C7L\npxqy4phr+jQtNqBCnN66e/y2KUqiqqAhz9eW6OsCgYAY3KSaKCUErw53xJAn77q1\nrRVozv/PQrLXhjQsa/lNR71Kw38mSmm+hEhdDBJ2EW4Qbj+xu1ZfR9Ih5XpoMPm+\n1bmo4hU5Xd6ptvbySOOxjwz6xowppKn/3C+bUTiOheEeM+vEOUhKItK/EhjoOBQd\nAZSSl1YioPNpIAlewx8pyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zeedm@senorlux-app.iam.gserviceaccount.com",
+  "client_id": "118022764302824112726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zeedm%40senorlux-app.iam.gserviceaccount.com"
+}
